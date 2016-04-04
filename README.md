@@ -1,1 +1,1 @@
-# combtest
+Combinatorial project based on improved PICT algorythm.
